@@ -27,11 +27,28 @@ body {
 
 #headingGroup h1 {
     font-weight: 100;
-    font-size: 3.75rem ;
+    font-size: 3.5rem ;
 }
 
 #headingGroup span {
     color: #7f5539;
+}
+
+.blurb h2 {
+    color: #7f5539;
+    font-weight: 100;
+    font-size: 2.5rem;
+}
+
+.blurb p {
+    color: #ddbea9;
+    font-weight: 100;
+    font-size: 1.125;
+    line-height: 2;
+}
+
+.content {
+    margin-bottom: 100px;
 }
 
 @media (max-width: 1300px) {
