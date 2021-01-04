@@ -35,13 +35,13 @@ body {
 }
 
 .blurb h2 {
-    color: #7f5539;
+    color: #6b705c;
     font-weight: 100;
     font-size: 2.5rem;
 }
 
 .blurb p {
-    color: #ddbea9;
+    color: #b7b7a4;
     font-weight: 100;
     font-size: 1.125;
     line-height: 2;
@@ -53,6 +53,10 @@ body {
 
 .content {
     margin-bottom: 100px;
+}
+
+.navbar.scrolled {
+    background-color: #b7b7a4; 
 }
 
 @media (max-width: 1300px) {
