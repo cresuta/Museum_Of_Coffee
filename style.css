@@ -47,6 +47,10 @@ body {
     line-height: 2;
 }
 
+.blurb img {
+    margin: 1.125rem;
+}
+
 .content {
     margin-bottom: 100px;
 }
